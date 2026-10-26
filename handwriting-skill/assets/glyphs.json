@@ -1,0 +1,772 @@
+{
+ "A": [
+  {
+   "file": "glyphs/065_A/01_row0.png",
+   "w": 120,
+   "h": 96,
+   "baseline": 678,
+   "left": 174,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -100.5,
+   "bot_rel": -4.5
+  }
+ ],
+ "a": [
+  {
+   "file": "glyphs/097_a/01_row0.png",
+   "w": 59,
+   "h": 53,
+   "baseline": 687,
+   "left": 335,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -48.5,
+   "bot_rel": 4.5
+  }
+ ],
+ "B": [
+  {
+   "file": "glyphs/066_B/01_row0.png",
+   "w": 84,
+   "h": 110,
+   "baseline": 690,
+   "left": 567,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -102.5,
+   "bot_rel": 7.5
+  }
+ ],
+ "b": [
+  {
+   "file": "glyphs/098_b/01_row0.png",
+   "w": 61,
+   "h": 98,
+   "baseline": 689,
+   "left": 670,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -91.5,
+   "bot_rel": 6.5
+  }
+ ],
+ "C": [
+  {
+   "file": "glyphs/067_C/01_row0.png",
+   "w": 88,
+   "h": 103,
+   "baseline": 684,
+   "left": 802,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -101.5,
+   "bot_rel": 1.5
+  }
+ ],
+ "c": [
+  {
+   "file": "glyphs/099_c/01_row0.png",
+   "w": 54,
+   "h": 54,
+   "baseline": 687,
+   "left": 917,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -49.5,
+   "bot_rel": 4.5
+  }
+ ],
+ "D": [
+  {
+   "file": "glyphs/068_D/01_row0.png",
+   "w": 97,
+   "h": 108,
+   "baseline": 682,
+   "left": 1062,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -108.5,
+   "bot_rel": -0.5
+  }
+ ],
+ "d": [
+  {
+   "file": "glyphs/100_d/01_row0.png",
+   "w": 65,
+   "h": 96,
+   "baseline": 684,
+   "left": 1180,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -94.5,
+   "bot_rel": 1.5
+  }
+ ],
+ "E": [
+  {
+   "file": "glyphs/069_E/01_row0.png",
+   "w": 78,
+   "h": 90,
+   "baseline": 681,
+   "left": 1328,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -91.5,
+   "bot_rel": -1.5
+  }
+ ],
+ "e": [
+  {
+   "file": "glyphs/101_e/01_row0.png",
+   "w": 75,
+   "h": 51,
+   "baseline": 677,
+   "left": 1422,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -56.5,
+   "bot_rel": -5.5
+  }
+ ],
+ "F": [
+  {
+   "file": "glyphs/070_F/01_row0.png",
+   "w": 72,
+   "h": 96,
+   "baseline": 683,
+   "left": 1589,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -95.5,
+   "bot_rel": 0.5
+  }
+ ],
+ "f": [
+  {
+   "file": "glyphs/102_f/01_row0.png",
+   "w": 76,
+   "h": 110,
+   "baseline": 685,
+   "left": 1698,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -107.5,
+   "bot_rel": 2.5
+  }
+ ],
+ "G": [
+  {
+   "file": "glyphs/071_G/01_row0.png",
+   "w": 110,
+   "h": 103,
+   "baseline": 687,
+   "left": 1873,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -98.5,
+   "bot_rel": 4.5
+  }
+ ],
+ "g": [
+  {
+   "file": "glyphs/103_g/01_row0.png",
+   "w": 83,
+   "h": 100,
+   "baseline": 736,
+   "left": 1954,
+   "row": 0,
+   "x_height": 53.0,
+   "top_rel": -46.5,
+   "bot_rel": 53.5
+  }
+ ],
+ "H": [
+  {
+   "file": "glyphs/072_H/01_row1.png",
+   "w": 106,
+   "h": 95,
+   "baseline": 889,
+   "left": 179,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -96.0,
+   "bot_rel": -1.0
+  }
+ ],
+ "h": [
+  {
+   "file": "glyphs/104_h/01_row1.png",
+   "w": 69,
+   "h": 105,
+   "baseline": 903,
+   "left": 305,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -92.0,
+   "bot_rel": 13.0
+  }
+ ],
+ "I": [
+  {
+   "file": "glyphs/073_I/01_row1.png",
+   "w": 70,
+   "h": 103,
+   "baseline": 902,
+   "left": 567,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -91.0,
+   "bot_rel": 12.0
+  }
+ ],
+ "i": [
+  {
+   "file": "glyphs/105_i/01_row1.png",
+   "w": 25,
+   "h": 100,
+   "baseline": 899,
+   "left": 662,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -91.0,
+   "bot_rel": 9.0
+  }
+ ],
+ "J": [
+  {
+   "file": "glyphs/074_J/01_row1.png",
+   "w": 111,
+   "h": 167,
+   "baseline": 962,
+   "left": 805,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -95.0,
+   "bot_rel": 72.0
+  }
+ ],
+ "j": [
+  {
+   "file": "glyphs/106_j/01_row1.png",
+   "w": 12,
+   "h": 15,
+   "baseline": 865,
+   "left": 914,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -40.0,
+   "bot_rel": -25.0
+  }
+ ],
+ "K": [
+  {
+   "file": "glyphs/075_K/01_row1.png",
+   "w": 120,
+   "h": 93,
+   "baseline": 896,
+   "left": 1065,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -87.0,
+   "bot_rel": 6.0
+  }
+ ],
+ "k": [
+  {
+   "file": "glyphs/107_k/01_row1.png",
+   "w": 82,
+   "h": 89,
+   "baseline": 890,
+   "left": 1212,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -89.0,
+   "bot_rel": 0.0
+  }
+ ],
+ "L": [
+  {
+   "file": "glyphs/076_L/01_row1.png",
+   "w": 68,
+   "h": 100,
+   "baseline": 894,
+   "left": 1399,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -96.0,
+   "bot_rel": 4.0
+  }
+ ],
+ "l": [
+  {
+   "file": "glyphs/108_l/01_row1.png",
+   "w": 57,
+   "h": 99,
+   "baseline": 895,
+   "left": 1495,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -94.0,
+   "bot_rel": 5.0
+  }
+ ],
+ "M": [
+  {
+   "file": "glyphs/077_M/01_row1.png",
+   "w": 125,
+   "h": 90,
+   "baseline": 883,
+   "left": 1617,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -97.0,
+   "bot_rel": -7.0
+  }
+ ],
+ "m": [
+  {
+   "file": "glyphs/109_m/01_row1.png",
+   "w": 77,
+   "h": 49,
+   "baseline": 890,
+   "left": 1753,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -49.0,
+   "bot_rel": 0.0
+  }
+ ],
+ "N": [
+  {
+   "file": "glyphs/078_N/01_row1.png",
+   "w": 106,
+   "h": 97,
+   "baseline": 886,
+   "left": 1941,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -101.0,
+   "bot_rel": -4.0
+  }
+ ],
+ "n": [
+  {
+   "file": "glyphs/110_n/01_row1.png",
+   "w": 57,
+   "h": 58,
+   "baseline": 900,
+   "left": 2082,
+   "row": 1,
+   "x_height": 53.5,
+   "top_rel": -48.0,
+   "bot_rel": 10.0
+  }
+ ],
+ "O": [
+  {
+   "file": "glyphs/079_O/01_row2.png",
+   "w": 105,
+   "h": 102,
+   "baseline": 1135,
+   "left": 163,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -89.0,
+   "bot_rel": 13.0
+  }
+ ],
+ "o": [
+  {
+   "file": "glyphs/111_o/01_row2.png",
+   "w": 44,
+   "h": 44,
+   "baseline": 1129,
+   "left": 293,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -37.0,
+   "bot_rel": 7.0
+  }
+ ],
+ "P": [
+  {
+   "file": "glyphs/080_P/01_row2.png",
+   "w": 53,
+   "h": 123,
+   "baseline": 1133,
+   "left": 547,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -112.0,
+   "bot_rel": 11.0
+  }
+ ],
+ "p": [
+  {
+   "file": "glyphs/112_p/01_row2.png",
+   "w": 59,
+   "h": 97,
+   "baseline": 1175,
+   "left": 598,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -44.0,
+   "bot_rel": 53.0
+  }
+ ],
+ "Q": [
+  {
+   "file": "glyphs/081_Q/01_row2.png",
+   "w": 118,
+   "h": 111,
+   "baseline": 1134,
+   "left": 797,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -99.0,
+   "bot_rel": 12.0
+  }
+ ],
+ "q": [
+  {
+   "file": "glyphs/113_q/01_row2.png",
+   "w": 69,
+   "h": 106,
+   "baseline": 1180,
+   "left": 927,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -48.0,
+   "bot_rel": 58.0
+  }
+ ],
+ "R": [
+  {
+   "file": "glyphs/082_R/01_row2.png",
+   "w": 92,
+   "h": 102,
+   "baseline": 1124,
+   "left": 1122,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -100.0,
+   "bot_rel": 2.0
+  }
+ ],
+ "r": [
+  {
+   "file": "glyphs/114_r/01_row2.png",
+   "w": 72,
+   "h": 53,
+   "baseline": 1119,
+   "left": 1220,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -56.0,
+   "bot_rel": -3.0
+  }
+ ],
+ "S": [
+  {
+   "file": "glyphs/083_S/01_row2.png",
+   "w": 86,
+   "h": 97,
+   "baseline": 1113,
+   "left": 1399,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -106.0,
+   "bot_rel": -9.0
+  }
+ ],
+ "s": [
+  {
+   "file": "glyphs/115_s/01_row2.png",
+   "w": 63,
+   "h": 56,
+   "baseline": 1120,
+   "left": 1487,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -58.0,
+   "bot_rel": -2.0
+  }
+ ],
+ "T": [
+  {
+   "file": "glyphs/084_T/01_row2.png",
+   "w": 66,
+   "h": 98,
+   "baseline": 1115,
+   "left": 1693,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -105.0,
+   "bot_rel": -7.0
+  }
+ ],
+ "t": [
+  {
+   "file": "glyphs/116_t/01_row2.png",
+   "w": 89,
+   "h": 63,
+   "baseline": 1112,
+   "left": 1739,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -73.0,
+   "bot_rel": -10.0
+  }
+ ],
+ "U": [
+  {
+   "file": "glyphs/085_U/01_row2.png",
+   "w": 97,
+   "h": 105,
+   "baseline": 1118,
+   "left": 1954,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -109.0,
+   "bot_rel": -4.0
+  }
+ ],
+ "u": [
+  {
+   "file": "glyphs/117_u/01_row2.png",
+   "w": 95,
+   "h": 67,
+   "baseline": 1133,
+   "left": 2061,
+   "row": 2,
+   "x_height": 54.5,
+   "top_rel": -56.0,
+   "bot_rel": 11.0
+  }
+ ],
+ "V": [
+  {
+   "file": "glyphs/086_V/01_row3.png",
+   "w": 116,
+   "h": 102,
+   "baseline": 1338,
+   "left": 139,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -108.5,
+   "bot_rel": -6.5
+  }
+ ],
+ "v": [
+  {
+   "file": "glyphs/118_v/01_row3.png",
+   "w": 61,
+   "h": 46,
+   "baseline": 1345,
+   "left": 262,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -45.5,
+   "bot_rel": 0.5
+  }
+ ],
+ "W": [
+  {
+   "file": "glyphs/087_W/01_row3.png",
+   "w": 109,
+   "h": 99,
+   "baseline": 1351,
+   "left": 504,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -92.5,
+   "bot_rel": 6.5
+  }
+ ],
+ "w": [
+  {
+   "file": "glyphs/119_w/01_row3.png",
+   "w": 72,
+   "h": 46,
+   "baseline": 1344,
+   "left": 645,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -46.5,
+   "bot_rel": -0.5
+  }
+ ],
+ "X": [
+  {
+   "file": "glyphs/088_X/01_row3.png",
+   "w": 99,
+   "h": 90,
+   "baseline": 1349,
+   "left": 832,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -85.5,
+   "bot_rel": 4.5
+  }
+ ],
+ "x": [
+  {
+   "file": "glyphs/120_x/01_row3.png",
+   "w": 69,
+   "h": 44,
+   "baseline": 1342,
+   "left": 950,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -46.5,
+   "bot_rel": -2.5
+  }
+ ],
+ "Y": [
+  {
+   "file": "glyphs/089_Y/01_row3.png",
+   "w": 93,
+   "h": 81,
+   "baseline": 1333,
+   "left": 1110,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -92.5,
+   "bot_rel": -11.5
+  }
+ ],
+ "y": [
+  {
+   "file": "glyphs/121_y/01_row3.png",
+   "w": 81,
+   "h": 146,
+   "baseline": 1385,
+   "left": 1203,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -105.5,
+   "bot_rel": 40.5
+  }
+ ],
+ "Z": [
+  {
+   "file": "glyphs/090_Z/01_row3.png",
+   "w": 111,
+   "h": 88,
+   "baseline": 1339,
+   "left": 1414,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -93.5,
+   "bot_rel": -5.5
+  }
+ ],
+ "z": [
+  {
+   "file": "glyphs/122_z/01_row3.png",
+   "w": 94,
+   "h": 56,
+   "baseline": 1350,
+   "left": 1539,
+   "row": 3,
+   "x_height": 46.0,
+   "top_rel": -50.5,
+   "bot_rel": 5.5
+  }
+ ],
+ "9": [
+  {
+   "file": "glyphs/057_9/01_para.png",
+   "w": 56,
+   "h": 75,
+   "baseline": 1688,
+   "left": 1808,
+   "row": 9,
+   "para_baseline": 1699,
+   "x_height": 53.25,
+   "top_rel": -86,
+   "bot_rel": -11
+  }
+ ],
+ "5": [
+  {
+   "file": "glyphs/053_5/01_para.png",
+   "w": 60,
+   "h": 91,
+   "baseline": 1703,
+   "left": 1882,
+   "row": 9,
+   "para_baseline": 1699,
+   "x_height": 53.25,
+   "top_rel": -87,
+   "bot_rel": 4
+  }
+ ],
+ "%": [
+  {
+   "file": "glyphs/037_%/01_para.png",
+   "w": 42,
+   "h": 83,
+   "baseline": 1695,
+   "left": 1921,
+   "row": 9,
+   "para_baseline": 1699,
+   "x_height": 53.25,
+   "top_rel": -87,
+   "bot_rel": -4
+  }
+ ],
+ ":": [
+  {
+   "file": "glyphs/058_:/01_para.png",
+   "w": 20,
+   "h": 62,
+   "baseline": 2069,
+   "left": 2242,
+   "row": 9,
+   "para_baseline": 2045,
+   "x_height": 53.25,
+   "top_rel": -38,
+   "bot_rel": 24
+  }
+ ],
+ ".": [
+  {
+   "file": "glyphs/046_./01_para.png",
+   "w": 67,
+   "h": 31,
+   "baseline": 2228,
+   "left": 1948,
+   "row": 9,
+   "para_baseline": 2289,
+   "x_height": 53.25,
+   "top_rel": -92,
+   "bot_rel": -61
+  },
+  {
+   "file": "glyphs/046_./02_para.png",
+   "w": 137,
+   "h": 75,
+   "baseline": 2393,
+   "left": 315,
+   "row": 9,
+   "para_baseline": 2412,
+   "x_height": 53.25,
+   "top_rel": -94,
+   "bot_rel": -19
+  },
+  {
+   "file": "glyphs/046_./03_para.png",
+   "w": 72,
+   "h": 45,
+   "baseline": 2540,
+   "left": 2273,
+   "row": 9,
+   "para_baseline": 2524,
+   "x_height": 53.25,
+   "top_rel": -29,
+   "bot_rel": 16
+  }
+ ]
+}

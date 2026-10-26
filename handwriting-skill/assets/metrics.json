@@ -1,0 +1,50 @@
+{
+ "pen": {
+  "color": [
+   13,
+   12,
+   44
+  ],
+  "thickness": 4.0
+ },
+ "letters": {
+  "x_height": 53.25,
+  "cap_height": 99.5,
+  "ascender": 92.0,
+  "descender": 53.0
+ },
+ "rows": [
+  {
+   "baseline": 682.5,
+   "x_height": 53.0,
+   "cap_height": 103.0
+  },
+  {
+   "baseline": 890.0,
+   "x_height": 53.5,
+   "cap_height": 97.0
+  },
+  {
+   "baseline": 1122.0,
+   "x_height": 54.5,
+   "cap_height": 102.0
+  },
+  {
+   "baseline": 1344.5,
+   "x_height": 46.0,
+   "cap_height": 90.0
+  }
+ ],
+ "paragraph": {
+  "x_height": 39.0,
+  "line_pitch": 119.0,
+  "letter_gap": 12.5,
+  "word_gap": 65.0,
+  "slant_deg": 5.7833033614643
+ },
+ "pad": 4,
+ "scale": 0.732,
+ "units": {
+  "line_pitch_over_x": 3.051
+ }
+}
